@@ -1,4 +1,2 @@
 streamlit
-openai
-langchain
-faiss-cpu
+langchain-groq
